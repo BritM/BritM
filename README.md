@@ -11,6 +11,7 @@
   - Simulaciones en Processing
   - Bases de datos como MySQL
   - Mini compilador de Python con ANTLR
+  - Proyectos de full stack
   
 
 <h3 align="left">Redes sociales:</h3>
