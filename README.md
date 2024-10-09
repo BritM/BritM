@@ -6,14 +6,14 @@
 - 📫 Como contactarme **britnneymurilloa840@gmail.com**
 
 - He trabajado en una gran variedad de proyectos con distintos grupos y lenguejes durante mi carrera:
-  Juegos en Unity
-  Drivers en Python
-  Simulaciones en Processing
-  Bases de datos como MySQL
-  Mini compilador de Python con ANTLR
+  - Juegos en Unity
+  - Drivers en Python
+  - Simulaciones en Processing
+  - Bases de datos como MySQL
+  - Mini compilador de Python con ANTLR
   
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Redes sociales:</h3>
 <p align="left">
 <a href="https://instagram.com/britnney840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="britnney840" height="30" width="40" /></a>
 </p>
