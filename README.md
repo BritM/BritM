@@ -5,7 +5,7 @@
 
 - 📫 Como contactarme **britnneymurilloa840@gmail.com**
 
-- He trabajado en una gran variedad de proyectos con distintos grupos y lenguejes durante mi carrera:
+- He trabajado en una gran variedad de proyectos con distintos grupos y lenguajes durante mi carrera:
   - Juegos en Unity
   - Drivers en Python
   - Simulaciones en Processing
