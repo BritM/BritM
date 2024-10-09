@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Britnney Murillo</h1>
 <h3 align="center">A student at Instituto Tecnológico de Costa Rica</h3>
 
-- 🔭 Estoy trabajando en [sdc-mern-app](https://github.com/Jaaq5/sdc-mern-app.git) y también en un ray tracer pequeño para una clase de Gráficos de Computadora
+- 🔭 Estoy trabajando en [sdc-mern-app](https://github.com/Jaaq5/sdc-mern-app.git) y también en un ray tracer pequeño en C para una clase de Gráficos de Computadora
 
 - 📫 Como contactarme **britnneymurilloa840@gmail.com**
 
