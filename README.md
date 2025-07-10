@@ -13,8 +13,11 @@
   - Mini compilador de Python con ANTLR
   - Proyectos de full stack
  
-#Proyectos
-- [Project One](https://github.com/your-username/project-one)
+Proyectos en los que he trabajado
+- [Juego de pelea JanKenPow (Manejo de colisiones)](https://github.com/Aldokler/redes-I-2024)
+- [Sistemas de Reservas de Hoteles Maracuyá (Scripts de SQL)](https://github.com/marcohg12/AP-Sistema_funcional)
+- [App de creación de currículos (Aporte variado)](https://github.com/Jaaq5/sdc-mern-app)
+- [Simulación de cardumen de peces (Aporte variado)](https://github.com/JohanJoestar/Proyecto-Cardumen_de_Peces)
   
 
 <h3 align="left">Redes sociales:</h3>
