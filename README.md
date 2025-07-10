@@ -12,6 +12,9 @@
   - Bases de datos como MySQL
   - Mini compilador de Python con ANTLR
   - Proyectos de full stack
+ 
+#Proyectos
+- [Project One](https://github.com/your-username/project-one)
   
 
 <h3 align="left">Redes sociales:</h3>
